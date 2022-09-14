@@ -1,1 +1,1 @@
-# Movia App with TMDB API
+# Movie App with TMDB API
